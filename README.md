@@ -2,13 +2,9 @@
 #### 🌐 Front-End Web Developer | 🚀 Learning & Growing | 🎓 Alumni of The Odin Project
 ![🌐 Front-End Web Developer | 🚀 Learning & Growing | 🎓 Alumni of The Odin Project](https://raw.githubusercontent.com/Mariyan97/mariyan97/main/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg)
 
-📚 I'm on a journey to master the art of creating beautiful and functional web interfaces. I've successfully completed The Odin Project and I'm hungry for more knowledge in the world of front-end development.
-
 👨‍💻 Currently, I'm exploring the ever-evolving landscape of web technologies, honing my skills in HTML, CSS, JavaScript, and beyond.
 
 💡 Passionate about user-centric design, responsive layouts, and creating seamless user experiences.
-
-🌟 Let's connect, learn, and build amazing web projects together!
 
 Skills: HTML / CSS / JavaScript / React / Node.js
 
