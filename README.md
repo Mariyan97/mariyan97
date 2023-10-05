@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm Mariyan Grigorov
+#### 🌐 Front-End Web Developer | 🚀 Learning & Growing | 🎓 Alumni of The Odin Project
+![🌐 Front-End Web Developer | 🚀 Learning & Growing | 🎓 Alumni of The Odin Project](https://raw.githubusercontent.com/Mariyan97/mariyan97/main/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823.jpeg)
 
-<!--
-**Mariyan97/mariyan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm on a journey to master the art of creating beautiful and functional web interfaces. I've successfully completed The Odin Project and I'm hungry for more knowledge in the world of front-end development.
 
-Here are some ideas to get you started:
+👨‍💻 Currently, I'm exploring the ever-evolving landscape of web technologies, honing my skills in HTML, CSS, JavaScript, and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about user-centric design, responsive layouts, and creating seamless user experiences.
+
+🌟 Let's connect, learn, and build amazing web projects together!
+
+Skills: HTML / CSS / JavaScript / React / Node.js
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mariyan97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mariyan_97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mariyangrigorov.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyan97)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyan97&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariyan97)  
+
+![Profile views](https://gpvc.arturio.dev/mariyan97)  
